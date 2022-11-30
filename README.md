@@ -6,5 +6,5 @@ Göz kırpma sayısını hesaplar
 # Yawn.py
 Esneme sayısını hesaplar
 
-# Yorgunluk.p
+# Yorgunluk.py
 İki sayfanın birleşimi
