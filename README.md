@@ -1,10 +1,10 @@
 # Yorgunluk Tespit Uygulaması
-#-------------------------------
+
 # TotalBlink.py
 Göz kırpma sayısını hesaplar
 
-#Yawn.py
+# Yawn.py
 Esneme sayısını hesaplar
 
-#Yorgunluk.p
+# Yorgunluk.p
 İki sayfanın birleşimi
